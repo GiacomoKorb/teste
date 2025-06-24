@@ -6,4 +6,5 @@
 # alterei aqui
 # alteração no github
 # alteração
-# teste de forma com facilitação - alterei pelo pc
+# teste de forma com facilitação - alterei remoto
+# - alterei pelo pc
